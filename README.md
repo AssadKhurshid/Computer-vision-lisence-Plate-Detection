@@ -1,7 +1,3 @@
-Sure! Here's a more polished and professional version of your GitHub README content, tailored for clarity, structure, and readability:
-
----
-
 # 🚗 Real-Time License Plate Detection
 
 A real-time license plate detection system built using advanced deep learning techniques. This application detects and reads vehicle license plates from live video feeds or static images, making it suitable for traffic monitoring, parking systems, and law enforcement use cases.
@@ -110,6 +106,3 @@ The front-end is developed using **Flask**, offering a clean and simple interfac
 We welcome contributions!  
 Feel free to fork the repo, make changes, and submit a pull request for improvements, new features, or bug fixes.
 
----
-
-Let me know if you'd like a badge section (like build status, license, etc.) or visual examples (screenshots, video demos) added!
